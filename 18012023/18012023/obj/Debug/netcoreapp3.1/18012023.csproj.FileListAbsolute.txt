@@ -12,3 +12,17 @@ C:\Users\Eagha\Desktop\CodeLessons\P231\C#\3. 18-01-2023\18012023\18012023\obj\D
 C:\Users\Eagha\Desktop\CodeLessons\P231\C#\3. 18-01-2023\18012023\18012023\obj\Debug\netcoreapp3.1\18012023.dll
 C:\Users\Eagha\Desktop\CodeLessons\P231\C#\3. 18-01-2023\18012023\18012023\obj\Debug\netcoreapp3.1\18012023.pdb
 C:\Users\Eagha\Desktop\CodeLessons\P231\C#\3. 18-01-2023\18012023\18012023\obj\Debug\netcoreapp3.1\18012023.genruntimeconfig.cache
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\3. 18-01-2023\P231_3_Method\18012023\18012023\bin\Debug\netcoreapp3.1\18012023.exe
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\3. 18-01-2023\P231_3_Method\18012023\18012023\bin\Debug\netcoreapp3.1\18012023.deps.json
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\3. 18-01-2023\P231_3_Method\18012023\18012023\bin\Debug\netcoreapp3.1\18012023.runtimeconfig.json
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\3. 18-01-2023\P231_3_Method\18012023\18012023\bin\Debug\netcoreapp3.1\18012023.runtimeconfig.dev.json
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\3. 18-01-2023\P231_3_Method\18012023\18012023\bin\Debug\netcoreapp3.1\18012023.dll
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\3. 18-01-2023\P231_3_Method\18012023\18012023\bin\Debug\netcoreapp3.1\18012023.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\3. 18-01-2023\P231_3_Method\18012023\18012023\obj\Debug\netcoreapp3.1\18012023.csproj.AssemblyReference.cache
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\3. 18-01-2023\P231_3_Method\18012023\18012023\obj\Debug\netcoreapp3.1\18012023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\3. 18-01-2023\P231_3_Method\18012023\18012023\obj\Debug\netcoreapp3.1\18012023.AssemblyInfoInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\3. 18-01-2023\P231_3_Method\18012023\18012023\obj\Debug\netcoreapp3.1\18012023.AssemblyInfo.cs
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\3. 18-01-2023\P231_3_Method\18012023\18012023\obj\Debug\netcoreapp3.1\18012023.csproj.CoreCompileInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\3. 18-01-2023\P231_3_Method\18012023\18012023\obj\Debug\netcoreapp3.1\18012023.dll
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\3. 18-01-2023\P231_3_Method\18012023\18012023\obj\Debug\netcoreapp3.1\18012023.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\3. 18-01-2023\P231_3_Method\18012023\18012023\obj\Debug\netcoreapp3.1\18012023.genruntimeconfig.cache

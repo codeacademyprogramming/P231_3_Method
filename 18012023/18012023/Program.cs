@@ -31,7 +31,101 @@ namespace _18012023
             var check = IsDigit('a');
 
             Console.WriteLine(check);
+
+            var result = Quvvet(2, 10);
+            Console.WriteLine( result);
+
+
+            int[] numbers = { 345, 23, 12, 67, 2233, 87 };
+
+
+
+            var maxNumber = FindMax(numbers);
+            Console.WriteLine(maxNumber);
+
+            string str = "Hello World  fd f   dsfds  dfsfds";
+
+            string newStr = "";
+            for (int i = 0; i < str.Length; i++)
+            {
+                if (i % 2 == 1)
+                {
+                    newStr += str[i];
+                }
+            }
+
+            Console.WriteLine(newStr);
+
+            Console.WriteLine(MakeStr(str));
         }
+
+        //Verilmis yazidan yalniz cut indexlerinde duran charlardan yeni bir yazi duzelden metod
+
+        static string MakeStr(string str)
+        {
+            string newStr = "";
+
+            for (int i = 0; i < str.Length; i++)
+            {
+                if (str[i]!=' ')
+                    newStr += str[i];
+            }
+
+            return newStr;
+        }
+
+        //Verilmis ededler siyahisindaki en boyuk ededi tapan metod
+        static int FindMax(int[] arr)
+        {
+            int max = arr[0];
+
+            for (int i = 1; i < arr.Length; i++)
+            {
+                if (arr[i] > max)
+                {
+                    max = arr[i];
+                }
+            }
+
+            return max;
+        }
+
+
+
+
+        //Verilmis ededi verilmis quvvete yukselden metod
+
+        static int Quvvet(int num,int pow)
+        {
+            int result = 1;
+            for (int i = 0; i < pow; i++)
+            {
+                result *= num;
+            }
+            return result;
+        }
+
+
+
+        // Verilmis yazidaki verilmis carin olub olmadigini tapan metod
+
+        static bool ChekWord(string str , char cr)
+        {
+            for (int i = 0; i < str.Length; i++)
+            {
+                if (str[i] == cr)
+                {
+                    return true;
+                }
+               
+            }
+            return false;
+
+        }
+
+
+
+
 
         //Verilmis charin reqem olub olmadigini tapan metod
 
