@@ -92,9 +92,7 @@ namespace _18012023
 
 
 
-
         //Verilmis ededi verilmis quvvete yukselden metod
-
         static int Quvvet(int num,int pow)
         {
             int result = 1;
@@ -108,7 +106,6 @@ namespace _18012023
 
 
         // Verilmis yazidaki verilmis carin olub olmadigini tapan metod
-
         static bool ChekWord(string str , char cr)
         {
             for (int i = 0; i < str.Length; i++)
@@ -123,12 +120,7 @@ namespace _18012023
 
         }
 
-
-
-
-
         //Verilmis charin reqem olub olmadigini tapan metod
-
         static bool IsDigit(char symbol)
         {
             //if (cr >= 48 && cr <= 57)
